@@ -1,0 +1,204 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "23/11/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "2",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "23/11/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "3",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "23/11/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "4",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "23/11/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "5",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/10/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "6",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "23/10/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "7",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/10/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "8",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/10/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "9",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/9/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "10",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/9/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "11",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/9/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "12",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/8/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "13",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/8/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "14",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/7/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "15",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/7/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "16",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/7/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "17",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/6/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "18",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/6/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "19",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/5/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    },
+    {
+      "id": "20",
+      "user_id": "4",
+      "motel_id": "20",
+      "start_time": "1/5/2022 11:15:59",
+      "end_time": "23/11/2022 17:22:06",
+      "status": "0",
+      "created_at": "23/11/2022 11:15:59",
+      "updated_at": ""
+    }
+  ]
+}

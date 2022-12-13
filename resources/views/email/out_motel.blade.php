@@ -1,0 +1,3 @@
+<p>Đơn đăng ký rời phòng của bạn đã được đồng ý.</p>
+<p>Thời gian: {{\Carbon\Carbon::now()->format('h:i d/m/Y')}}</p>
+<p><a href="{{route('client_current_motel')}}">Xem chi tiết</a></p>

@@ -1,0 +1,652 @@
+{
+  "RECORDS": [
+    {
+      "id": "1",
+      "name": "Đại Học Quốc Gia Hà Nội",
+      "latitude": "21.04135",
+      "longitude": "105.78074",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "2",
+      "name": "Khoa Luật - ĐHQG Hà Nội",
+      "latitude": "21.00193",
+      "longitude": "105.84656",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "3",
+      "name": "Trường Đại học Ngoại ngữ - ĐHQG Hà Nội",
+      "latitude": "20.9877",
+      "longitude": "105.79699",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "4",
+      "name": "Trường Đại Học Y Dược - ĐHQG Hà Nội",
+      "latitude": "20.9877",
+      "longitude": "105.796989",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "5",
+      "name": "Đại học Bách Khoa Hà Nội",
+      "latitude": "21.00385684",
+      "longitude": "105.8493102",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "6",
+      "name": "Đại học Thuỷ Lợi",
+      "latitude": "21.00751685",
+      "longitude": "105.8247411",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "7",
+      "name": "Học viện Tài chính",
+      "latitude": "21.07554378",
+      "longitude": "105.7727713",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "8",
+      "name": "Đại học Thương mại",
+      "latitude": "21.03761831",
+      "longitude": "105.7743663",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "9",
+      "name": "Đại học Ngoại thương",
+      "latitude": "21.02317319",
+      "longitude": "105.8056087",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "10",
+      "name": "Học viện Công nghệ Bưu chính viễn thông",
+      "latitude": "20.9811639",
+      "longitude": "105.7875559",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "11",
+      "name": "Cao đẳng thực hành FPT Polytechnic Hà Nội",
+      "latitude": "21.03809",
+      "longitude": "105.74676",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "12",
+      "name": "Bến xe giáp bát",
+      "latitude": "20.98064",
+      "longitude": "105.842",
+      "type": "4",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "13",
+      "name": "Bến xe mỹ đình",
+      "latitude": "21.02851",
+      "longitude": "105.77834",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "14",
+      "name": "Bến xe nước ngầm",
+      "latitude": "20.96555",
+      "longitude": "105.8423",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "15",
+      "name": "Bệnh viện bạch mai",
+      "latitude": "21.00211",
+      "longitude": "105.84077",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "16",
+      "name": "Trường đại học Phenikaa",
+      "latitude": "20.96113",
+      "longitude": "105.74719",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "17",
+      "name": "Đại học Nguyễn Trãi",
+      "latitude": "20.96315",
+      "longitude": "105.76412",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "18",
+      "name": "Trường đại học Đại Nam",
+      "latitude": "20.94703",
+      "longitude": "105.75958",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "19",
+      "name": "Trường đại học Thành Đô",
+      "latitude": "21.06398",
+      "longitude": "105.72287",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "20",
+      "name": "Trường đại học tài chính ngân hàng",
+      "latitude": "21.0761",
+      "longitude": "105.78566",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "21",
+      "name": "Trường đại học xây dựng",
+      "latitude": "21.00337",
+      "longitude": "105.84328",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "22",
+      "name": "Trường đại học tài nguyên vào môi trường",
+      "latitude": "21.04659",
+      "longitude": "105.76216",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "23",
+      "name": "Trường đại học sư phạm thể dục thể thao Hà Nội",
+      "latitude": "20.93641",
+      "longitude": "105.70936",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "24",
+      "name": "Trường đại học sân khấu điện ảnh",
+      "latitude": "21.04014",
+      "longitude": "105.77598",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "25",
+      "name": "Trường đại học mỏ địa chất",
+      "latitude": "21.07217",
+      "longitude": "105.77397",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "26",
+      "name": "Trường đại học lao động và xã hội",
+      "latitude": "21.01243",
+      "longitude": "105.80225",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "27",
+      "name": "Trường đại học giao thông vận tải",
+      "latitude": "21.02815",
+      "longitude": "105.80332",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "28",
+      "name": "Học viện thanh thiếu niên",
+      "latitude": "21.02248",
+      "longitude": "105.80932",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "29",
+      "name": "Trường đại học điện lực",
+      "latitude": "21.04656",
+      "longitude": "105.78486",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "30",
+      "name": "Học viện báo chí và tuyên truyền",
+      "latitude": "21.03733",
+      "longitude": "105.78898",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "31",
+      "name": "Đại học kiến trúc",
+      "latitude": "20.98066",
+      "longitude": "105.78915",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "32",
+      "name": "Đại học FPT ",
+      "latitude": "21.01331",
+      "longitude": "105.527",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "33",
+      "name": "Đại học Hòa Bình",
+      "latitude": "21.032",
+      "longitude": "105.76613",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "34",
+      "name": "Đại học Thăng Long",
+      "latitude": "20.976",
+      "longitude": "105.81555",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "35",
+      "name": "Đại học Phương Đông",
+      "latitude": "21.01579",
+      "longitude": "105.79401",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "36",
+      "name": "Đại học Đông Đô",
+      "latitude": "20.99913",
+      "longitude": "105.80692",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "37",
+      "name": "Đại học sư phạm nghệ thuật trung ương",
+      "latitude": "20.98379",
+      "longitude": "105.79429",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "38",
+      "name": "Đại học Nội Vụ",
+      "latitude": "21.0677",
+      "longitude": "105.80482",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "39",
+      "name": "Bệnh viện 108",
+      "latitude": "21.01861",
+      "longitude": "105.86031",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "40",
+      "name": "Đại học Công Đoàn",
+      "latitude": "21.01061",
+      "longitude": "105.82511",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "41",
+      "name": "Học viện Ngoại Giao",
+      "latitude": "21.02303",
+      "longitude": "105.80651",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "42",
+      "name": "Học viện phụ nữ Việt Nam",
+      "latitude": "21.01947",
+      "longitude": "105.80749",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "43",
+      "name": "Học viện Nông Nghiệp",
+      "latitude": "21.00522",
+      "longitude": "105.93181",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "44",
+      "name": "Trường đại học Lâm Nghiệp",
+      "latitude": "2091128",
+      "longitude": "105.57668",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "45",
+      "name": "Trường đại học luật",
+      "latitude": "21.02152",
+      "longitude": "105.80934",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "46",
+      "name": "Big C Thăng Long",
+      "latitude": "21.00818039",
+      "longitude": "105.7930593",
+      "type": "3",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "47",
+      "name": "Bến xe Mỹ Đình",
+      "latitude": "21.02865",
+      "longitude": "105.7782687",
+      "type": "4",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "48",
+      "name": "Trường Đại học Hà Nội",
+      "latitude": "20.9877",
+      "longitude": "105.79699",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "49",
+      "name": "Trường Đại học Công nghiệp Hà Nội",
+      "latitude": "21.00752",
+      "longitude": "105.93657",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "50",
+      "name": "Trường Đại học Sư phạm Hà Nội",
+      "latitude": "21.04135",
+      "longitude": "105.78074",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "51",
+      "name": "Học viện Ngân hàng",
+      "latitude": "21.01725",
+      "longitude": "105.7541",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "52",
+      "name": "Trường Đại học Khoa học Xã hội và Nhân văn - Đại học Quốc gia Hà Nội",
+      "latitude": "21.04135",
+      "longitude": "105.78074",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "53",
+      "name": "Đại Học Kinh Tế Quốc Dân Hà Nội",
+      "latitude": "21.04135",
+      "longitude": "105.78074",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "54",
+      "name": "Trường Đại học Kinh doanh và Công nghệ Hà Nội",
+      "latitude": "20.99635",
+      "longitude": "105.84634",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "55",
+      "name": "Học Viện Chính Sách Và Phát Triển Hà Nội",
+      "latitude": "20.98798",
+      "longitude": "105.79653",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "56",
+      "name": "Đại Học Kinh Tế - Đại Học Quốc Gia Hà Nội VNU",
+      "latitude": "21.04135",
+      "longitude": "105.78074",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "57",
+      "name": "Đại Học Mỹ Thuật Công Nghiệp",
+      "latitude": "21.00752",
+      "longitude": "105.93657",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "58",
+      "name": "Trường Đại Học Anh Quốc Việt Nam (BUV)",
+      "latitude": "21.04135",
+      "longitude": "105.78074",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "59",
+      "name": "Trường Đại Học Mở Hà Nội",
+      "latitude": "21.07085",
+      "longitude": "105.77372",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "60",
+      "name": "Trường Cao Đẳng FPT Polytechnic Hà Nội",
+      "latitude": "21.01206",
+      "longitude": "105.86161",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "61",
+      "name": "Trường Cao đẳng Thương mại và Du lịch Hà Nội",
+      "latitude": "21.00139",
+      "longitude": "105.83559",
+      "type": "1",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "62",
+      "name": "Bệnh Viện Việt Đức Hà Nội",
+      "latitude": "21.06006",
+      "longitude": "105.69912",
+      "type": "2",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "63",
+      "name": "Bệnh Viện Da Liễu Trung Ương, Phương Mai, Đống Đa, Hà Nội",
+      "latitude": "21.01458",
+      "longitude": "105.84142",
+      "type": "2",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "64",
+      "name": "Bệnh viện Thanh Nhàn, Phố Thanh Nhàn, Thanh Nhàn, Hai Bà Trưng, Hà Nội",
+      "latitude": "21.00277",
+      "longitude": "105.85608",
+      "type": "2",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "65",
+      "name": "Bệnh Viện Việt Pháp Hà Nội, Phương Mai, Đống Đa, Hà Nội",
+      "latitude": "21.00518",
+      "longitude": "105.83908",
+      "type": "2",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "66",
+      "name": "Bệnh viện Đại học Y Hà Nội, Phố Tôn Thất Tùng, Trung Tự, Đống Đa, Hà Nội",
+      "latitude": "21.00336",
+      "longitude": "105.83009",
+      "type": "2",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "67",
+      "name": "Bệnh viện Quân y 103, Phúc La, Hà Đông, Hà Nội",
+      "latitude": "20.97055",
+      "longitude": "105.78974",
+      "type": "2",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "68",
+      "name": "Bệnh Viện phụ sản Hà Nội",
+      "latitude": "21.02685",
+      "longitude": "105.80896",
+      "type": "2",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "69",
+      "name": "Bệnh Viện Giao Thông Vận Tải",
+      "latitude": "20.96989",
+      "longitude": "105.78663",
+      "type": "2",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "70",
+      "name": "Bệnh Viện Đa Khoa Hà Thành Hà Nội",
+      "latitude": "21.02022",
+      "longitude": "105.61564",
+      "type": "2",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "71",
+      "name": "Bệnh Viện Đống Đa Hà Nội",
+      "latitude": "21.01508",
+      "longitude": "105.8318",
+      "type": "2",
+      "created_at": "",
+      "updated_at": ""
+    },
+    {
+      "id": "72",
+      "name": "Bệnh Viện Đức Phúc Hà Nội",
+      "latitude": "10.83934",
+      "longitude": "106.76996",
+      "type": "2",
+      "created_at": "",
+      "updated_at": ""
+    }
+  ]
+}

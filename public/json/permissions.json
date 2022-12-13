@@ -1,0 +1,464 @@
+{
+    "RECORDS": [
+      {
+        "id": "1",
+        "name": "users",
+        "desc": "Quản lý tài khoản",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "0"
+      },
+      {
+        "id": "2",
+        "name": "add_users",
+        "desc": "Thêm tài khoản",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "1"
+      },
+      {
+        "id": "3",
+        "name": "update_users",
+        "desc": "Cập nhật tài khoản",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "1"
+      },
+      {
+        "id": "4",
+        "name": "areas",
+        "desc": "Quản lí khu trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "0"
+      },
+      {
+        "id": "5",
+        "name": "add_areas",
+        "desc": "Thêm khu trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "4"
+      },
+      {
+        "id": "6",
+        "name": "update_areas",
+        "desc": "Cập nhật khu trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "4"
+      },
+      {
+        "id": "7",
+        "name": "delete_areas",
+        "desc": "Xóa khu trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "4"
+      },
+      {
+        "id": "8",
+        "name": "index_users",
+        "desc": "Danh sách tài khoản",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "1"
+      },
+      {
+        "id": "9",
+        "name": "index_areas",
+        "desc": "Danh sách khu trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "4"
+      },
+      {
+        "id": "10",
+        "name": "saveAdd_users ",
+        "desc": "Lưu thêm mới tài khoản",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "1"
+      },
+      {
+        "id": "11",
+        "name": "saveUpdate_users",
+        "desc": "Lưu cập nhật tài khoản",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "1"
+      },
+      {
+        "id": "12",
+        "name": "saveAdd_areas",
+        "desc": "Lưu thêm mới khu trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "4"
+      },
+      {
+        "id": "13",
+        "name": "saveUpdate_areas",
+        "desc": "Lưu cập nhật khu trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "4"
+      },
+      {
+        "id": "14",
+        "name": "motels",
+        "desc": "Quản lí phòng trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "0"
+      },
+      {
+        "id": "15",
+        "name": "index_motels",
+        "desc": "Danh sách phòng trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "14"
+      },
+      {
+        "id": "16",
+        "name": "add_motels",
+        "desc": "Thêm mới phòng trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "14"
+      },
+      {
+        "id": "17",
+        "name": "saveAdd_motels",
+        "desc": "Lưu thêm mới phòng trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "14"
+      },
+      {
+        "id": "18",
+        "name": "update_motels",
+        "desc": "Cập nhật phòng trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "14"
+      },
+      {
+        "id": "19",
+        "name": "saveUpdate_motels",
+        "desc": "Lưu cập nhật phòng trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "14"
+      },
+      {
+        "id": "20",
+        "name": "delete_motels",
+        "desc": "Xóa phòng trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "14"
+      },
+      {
+        "id": "21",
+        "name": "roles",
+        "desc": "Quản lí quyền",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "0"
+      },
+      {
+        "id": "22",
+        "name": "index_roles",
+        "desc": "Danh sách quyền",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "21"
+      },
+      {
+        "id": "23",
+        "name": "add_roles",
+        "desc": "Thêm mới quyền",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "21"
+      },
+      {
+        "id": "24",
+        "name": "saveAdd_roles",
+        "desc": "Lưu thêm mới quyền",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "21"
+      },
+      {
+        "id": "25",
+        "name": "update_roles",
+        "desc": "Cập nhật quyền ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "21"
+      },
+      {
+        "id": "26",
+        "name": "saveUpdate_roles",
+        "desc": "Lưu cập nhật quyền",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "21"
+      },
+      {
+        "id": "27",
+        "name": "delete_roles",
+        "desc": "Xóa quyền",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "21"
+      },
+      {
+        "id": "28",
+        "name": "delete_users",
+        "desc": "Xóa tài khoản",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "1"
+      },
+      {
+        "id": "29",
+        "name": "plans",
+        "desc": "Quản lí gói đẩy tin",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "0"
+      },
+      {
+        "id": "30",
+        "name": "index_plans",
+        "desc": "Danh sách gói đẩy tin",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "29"
+      },
+      {
+        "id": "31",
+        "name": "add_plans",
+        "desc": "Thêm mới gói đẩy tin",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "29"
+      },
+      {
+        "id": "32",
+        "name": "saveAdd_plans",
+        "desc": "Lưu thêm mới gói đẩy tin",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "29"
+      },
+      {
+        "id": "33",
+        "name": "update_plans",
+        "desc": "Cập nhật gói đẩy tin",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "29"
+      },
+      {
+        "id": "34",
+        "name": "saveUpdate_plans",
+        "desc": "Lưu cập nhật gói đẩy tin",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "29"
+      },
+      {
+        "id": "35",
+        "name": "delete_plans",
+        "desc": "Xóa gói đẩy tin",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "29"
+      },
+      {
+        "id": "36",
+        "name": "recharges",
+        "desc": "Quản lí lịch sử nạp tiền",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "0"
+      },
+      {
+        "id": "37",
+        "name": "index_recharges",
+        "desc": "Danh sách lịch sử nạp tiền",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "36"
+      },
+      {
+        "id": "38",
+        "name": "deposits",
+        "desc": "Quản lí lịch sử đặt cọc",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "0"
+      },
+      {
+        "id": "39",
+        "name": "index_deposits",
+        "desc": "Danh sách lịch sử đặt cọc",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "38"
+      },
+      {
+        "id": "40",
+        "name": "info_user_motels",
+        "desc": "Danh sách thành viên phòng",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "14"
+      },
+      {
+        "id": "41",
+        "name": "add_people_of_motels",
+        "desc": "Thêm thành viên phòng",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "14"
+      },
+      {
+        "id": "42",
+        "name": "create_post_motels",
+        "desc": "Bật chế độ tìm người thuê",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "14"
+      },
+      {
+        "id": "43",
+        "name": "save_create_post_motels",
+        "desc": "Xác nhận bật chế độ tìm người thuê",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "14"
+      },
+      {
+        "id": "44",
+        "name": "plan_history",
+        "desc": "Lịch sử mua gói dịch vụ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "0"
+      },
+      {
+        "id": "45",
+        "name": "index_plan_history",
+        "desc": "Danh sách lịch sử mua gói dịch vụ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "44"
+      },
+      {
+        "id": "46",
+        "name": "contact_motel",
+        "desc": "Danh sách người đăng ký ở ghép",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": "",
+        "status": "1",
+        "parent_id": "14"
+      }
+    ]
+  }

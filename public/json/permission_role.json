@@ -1,0 +1,410 @@
+{
+    "RECORDS": [
+      {
+        "id": "131",
+        "role_id": "1",
+        "permission_id": "5",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "132",
+        "role_id": "1",
+        "permission_id": "6",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "133",
+        "role_id": "1",
+        "permission_id": "7",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "134",
+        "role_id": "1",
+        "permission_id": "9",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "135",
+        "role_id": "1",
+        "permission_id": "12",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "136",
+        "role_id": "1",
+        "permission_id": "13",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "137",
+        "role_id": "1",
+        "permission_id": "15",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "138",
+        "role_id": "1",
+        "permission_id": "16",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "139",
+        "role_id": "1",
+        "permission_id": "17",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "140",
+        "role_id": "1",
+        "permission_id": "18",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "141",
+        "role_id": "1",
+        "permission_id": "19",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "142",
+        "role_id": "1",
+        "permission_id": "20",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "143",
+        "role_id": "1",
+        "permission_id": "40",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "144",
+        "role_id": "1",
+        "permission_id": "41",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "145",
+        "role_id": "1",
+        "permission_id": "42",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "146",
+        "role_id": "1",
+        "permission_id": "43",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "147",
+        "role_id": "1",
+        "permission_id": "46",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "148",
+        "role_id": "1",
+        "permission_id": "37",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "149",
+        "role_id": "1",
+        "permission_id": "39",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "150",
+        "role_id": "1",
+        "permission_id": "45",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "151",
+        "role_id": "2",
+        "permission_id": "2",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "152",
+        "role_id": "2",
+        "permission_id": "3",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "153",
+        "role_id": "2",
+        "permission_id": "8",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "154",
+        "role_id": "2",
+        "permission_id": "10",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "155",
+        "role_id": "2",
+        "permission_id": "11",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "156",
+        "role_id": "2",
+        "permission_id": "28",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "157",
+        "role_id": "2",
+        "permission_id": "5",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "158",
+        "role_id": "2",
+        "permission_id": "6",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "159",
+        "role_id": "2",
+        "permission_id": "7",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "160",
+        "role_id": "2",
+        "permission_id": "9",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "161",
+        "role_id": "2",
+        "permission_id": "12",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "162",
+        "role_id": "2",
+        "permission_id": "13",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "163",
+        "role_id": "2",
+        "permission_id": "15",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "164",
+        "role_id": "2",
+        "permission_id": "16",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "165",
+        "role_id": "2",
+        "permission_id": "17",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "166",
+        "role_id": "2",
+        "permission_id": "18",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "167",
+        "role_id": "2",
+        "permission_id": "19",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "168",
+        "role_id": "2",
+        "permission_id": "20",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "169",
+        "role_id": "2",
+        "permission_id": "40",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "170",
+        "role_id": "2",
+        "permission_id": "41",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "171",
+        "role_id": "2",
+        "permission_id": "42",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "172",
+        "role_id": "2",
+        "permission_id": "43",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "173",
+        "role_id": "2",
+        "permission_id": "46",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "174",
+        "role_id": "2",
+        "permission_id": "22",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "175",
+        "role_id": "2",
+        "permission_id": "23",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "176",
+        "role_id": "2",
+        "permission_id": "24",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "177",
+        "role_id": "2",
+        "permission_id": "25",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "178",
+        "role_id": "2",
+        "permission_id": "26",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "179",
+        "role_id": "2",
+        "permission_id": "27",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "180",
+        "role_id": "2",
+        "permission_id": "30",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "181",
+        "role_id": "2",
+        "permission_id": "31",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "182",
+        "role_id": "2",
+        "permission_id": "32",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "183",
+        "role_id": "2",
+        "permission_id": "33",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "184",
+        "role_id": "2",
+        "permission_id": "34",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "185",
+        "role_id": "2",
+        "permission_id": "35",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "186",
+        "role_id": "2",
+        "permission_id": "37",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "187",
+        "role_id": "2",
+        "permission_id": "39",
+        "created_at": "",
+        "updated_at": ""
+      },
+      {
+        "id": "188",
+        "role_id": "2",
+        "permission_id": "45",
+        "created_at": "",
+        "updated_at": ""
+      }
+    ]
+  }

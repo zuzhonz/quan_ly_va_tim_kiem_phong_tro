@@ -1,0 +1,25 @@
+{
+    "RECORDS": [
+      {
+        "id": "1",
+        "name": "Phòng trọ, nhà trọ",
+        "status": 1,
+        "desc": "Phòng trọ",
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": ""
+
+      },
+      {
+        "id": "2",
+        "name": "Căn hộ mini",
+        "desc": "Căn hộ mini", 
+        "status": 1,
+        "deleted_at": "",
+        "created_at": "",
+        "updated_at": ""
+   
+      }
+    
+    ]
+  }
